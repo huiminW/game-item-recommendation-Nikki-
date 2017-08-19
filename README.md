@@ -13,7 +13,7 @@ In this project, I used a tiny bit of beautifulsoup and re.
 The two output files top.txt and general.txt have name of clothings and number of times they appear in html pages.(only the ones that were used)
 
 ToDos:
-Try to use http://seal100x.github.io/nikkiup2u3/ (more updated)instead. Figure out how to interact and scrape with webpage like this.
+Try to use http://seal100x.github.io/nikkiup2u3/ (more updated)instead. Figure out how to interact and scrape with webpage like this.(Look at onekeystrategy.js)
 Try understanding the actual grading method of the game and compute scores.
 Sort items in the output files by how it can be obtained for easier use.(different in game currency, evolving, dyeing and such)
 
