@@ -16,3 +16,5 @@ ToDos:
 Try to use http://seal100x.github.io/nikkiup2u3/ (more updated)instead. Figure out how to interact and scrape with webpage like this.
 Try understanding the actual grading method of the game and compute scores.
 Sort items in the output files by how it can be obtained for easier use.(different in game currency, evolving, dyeing and such)
+
+BUG： general.txt file was calculated wrong(appearance count should not include score)
